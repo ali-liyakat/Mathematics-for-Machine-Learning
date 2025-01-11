@@ -1,6 +1,7 @@
 # Vectors
 #  -> one dimensional array of numbers
 #  -> Representing a point in Space 
+# -> Vectors representing magnitude and direction from origin
 
 # Vectors (Rank 1 tensors) in Numpy
 import numpy as np
